@@ -1,4 +1,5 @@
 # hadoop trên Windows
+# wordcount: nhập từ và in ra tên file chứa từ kèm số lượng
 # wordcount1: đếm số lượng lần xuất hiện của từ.
 # wordcount2: đếm số lượng file xuất hiện của từ.
 
